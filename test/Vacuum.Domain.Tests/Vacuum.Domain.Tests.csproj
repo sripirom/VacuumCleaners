@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Vacuum.Domain\Vacuum.Domain.csproj" />
+    <ProjectReference Include="..\..\src\Vacuum.TestBase\Vacuum.TestBase.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
